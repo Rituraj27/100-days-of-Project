@@ -8,6 +8,7 @@
 ### Day 6/100: <a href="https://github.com/Rituraj27/Day-6-social-link-profile">Social Link Profile</a>
 ### Day 7/100: <a href="https://github.com/Rituraj27/Day-7-Responsive-Banking-Site">Responsive Banking Site</a>
 ### Day 8/100: <a href="https://github.com/Rituraj27/Day-8-Expanding-Card">Expanding Card</a>
-### Day 8/100: <a href="https://github.com/Rituraj27/Day-10-Nike-Store">Nike Store</a>
+### Day 9/100: <a href="https://github.com/Rituraj27/Day-8-Todo-App">Todo App</a>
+### Day 10/100: <a href="https://github.com/Rituraj27/Day-10-Nike-Store">Nike Store</a>
 
 
